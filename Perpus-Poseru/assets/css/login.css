@@ -1,0 +1,16 @@
+body {
+  background-color: #106eea;
+  background-image: linear-gradient(to right, transparent 50%, rgba(0, 0, 0, 0.05) 50%),
+    linear-gradient(to bottom, transparent 50%, rgba(0, 0, 0, 0.05) 50%);
+  background-size: 10px 10px;
+}
+
+.login-container {
+  border: 1px solid white;
+  background-color: white;
+  border-radius: 5px;
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: 100px;
+  padding: 20px;
+}
